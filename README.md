@@ -1,5 +1,7 @@
 # Misspelled Params
 
+This pipeline will break `kedro-viz` with a poor error message.  Issue [#435](https://github.com/quantumblacklabs/kedro-viz/issues/435) was raised to improve the `kedro-viz` error message when params are misspelled.
+
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.17.3`.
